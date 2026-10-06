@@ -1,0 +1,7 @@
+{
+  "name": "SnapFind",
+  "description": "AI Screenshot Organizer - find and act on information saved in screenshots",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
